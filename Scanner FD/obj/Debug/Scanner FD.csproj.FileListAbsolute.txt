@@ -1,0 +1,12 @@
+C:\Users\Jeremy\documents\visual studio 2013\Projects\Scanner FD\Scanner FD\bin\Debug\Scanner FD.exe.config
+C:\Users\Jeremy\documents\visual studio 2013\Projects\Scanner FD\Scanner FD\bin\Debug\Scanner FD.exe.manifest
+C:\Users\Jeremy\documents\visual studio 2013\Projects\Scanner FD\Scanner FD\bin\Debug\Scanner FD.application
+C:\Users\Jeremy\documents\visual studio 2013\Projects\Scanner FD\Scanner FD\bin\Debug\Scanner FD.exe
+C:\Users\Jeremy\documents\visual studio 2013\Projects\Scanner FD\Scanner FD\bin\Debug\Scanner FD.pdb
+C:\Users\Jeremy\documents\visual studio 2013\Projects\Scanner FD\Scanner FD\obj\Debug\Scanner_FD.Form1.resources
+C:\Users\Jeremy\documents\visual studio 2013\Projects\Scanner FD\Scanner FD\obj\Debug\Scanner_FD.Properties.Resources.resources
+C:\Users\Jeremy\documents\visual studio 2013\Projects\Scanner FD\Scanner FD\obj\Debug\Scanner FD.csproj.GenerateResource.Cache
+C:\Users\Jeremy\documents\visual studio 2013\Projects\Scanner FD\Scanner FD\obj\Debug\Scanner FD.exe.manifest
+C:\Users\Jeremy\documents\visual studio 2013\Projects\Scanner FD\Scanner FD\obj\Debug\Scanner FD.application
+C:\Users\Jeremy\documents\visual studio 2013\Projects\Scanner FD\Scanner FD\obj\Debug\Scanner FD.exe
+C:\Users\Jeremy\documents\visual studio 2013\Projects\Scanner FD\Scanner FD\obj\Debug\Scanner FD.pdb
